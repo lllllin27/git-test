@@ -7,5 +7,6 @@ public class GItTest {
         System.out.println("hello,git!");
         System.out.println("hi,git!");
         System.out.println("hi,pushtest!");
+        System.out.println("hi,pulltest!");
     }
 }
